@@ -117,6 +117,8 @@
 | notes    | Примечания/Описание    | varchar(200) *или NULL*    |   |
 | pubdate   | Дата Публикации    | datetime *Значение NULL не принимается*     |   |
 
+
 ## Скриншоты о проделанной работе:
 
 ![alt-У вас не загрузилось :( ](http://ipic.su/img/img7/fs/SQL12-1.1567451437.png "SQLServer12")
+![alt-У вас не загрузилось :( ](http://ipic.su/img/img7/fs/SQP12.1567451579.png "SQLServer12-1")
