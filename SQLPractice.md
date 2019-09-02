@@ -13,7 +13,7 @@
 | au_Lname         | Фамилия   | varchar(40) *Значение NULL не принимается* |             |
 | au_Fname         | Имя    | varchar(20) *Значение NULL не принимается* |             |
 | phone        | Телефон(Автора)    | char(12) *Значение NULL не принимается*|             |
-| address        | Телефон(Автора)    | varchar(40) *или NULL* |     PK - Первичный ключ          |
+| address        | Адрес(Автора)    | varchar(40) *или NULL* |     PK - Первичный ключ          |
 | city       | Город   | varchar(20) *или NULL* |             |
 | state       | Штат   | char(2) *или NULL* |             |
 | zip       | Почтовый индекс   | char(5) *или NULL* |             |
