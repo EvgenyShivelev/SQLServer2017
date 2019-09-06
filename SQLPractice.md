@@ -146,4 +146,4 @@
 
 ***Примеры данных***
 ![alt-У вас не загрузилось :( ](http://ipic.su/img/img7/fs/image.1567752874.png "SQLServer12-1")
-![alt-У вас не загрузилось :( ](http://ipic.su/img/img7/fs/image.1567752874.png "SQLServer12-1")
+![alt-У вас не загрузилось :( ](http://ipic.su/img/img7/fs/image(5).1567754174.png "SQLServer12-1")
