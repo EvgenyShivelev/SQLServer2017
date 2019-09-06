@@ -145,3 +145,5 @@
 ![alt-У вас не загрузилось :( ](http://ipic.su/img/img7/fs/SQP12.1567451579.png "SQLServer12-1")
 
 ### Данные 
+
+![alt-У вас не загрузилось :( ](http://ipic.su/img/img7/fs/SQL12-1.1567451437.png "SQLServer12")
