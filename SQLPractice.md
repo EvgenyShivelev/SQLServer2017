@@ -147,3 +147,9 @@
 ***Примеры данных***
 ![alt-У вас не загрузилось :( ](http://ipic.su/img/img7/fs/image.1567752874.png "SQLServer12-1")
 ![alt-У вас не загрузилось :( ](http://ipic.su/img/img7/fs/image(5).1567754174.png "SQLServer12-1")
+
+### Установка SQL SERVER 16/17
+
+***Примечание: Установщик сделает все автоматически
+
+![alt-У вас не загрузилось :( ](http://ipic.su/img/img7/fs/Snifyvfyvvmok.1567754284.png "SQLServer12-1")
