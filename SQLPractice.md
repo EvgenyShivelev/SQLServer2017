@@ -144,4 +144,4 @@
 
 ### Данные 
 
-![alt-У вас не загрузилось :( ](http://ipic.su/img/img7/fs/SQL12-1.1567451437.png "SQLServer12")
+![alt-У вас не загрузилось :( ](http://ipic.su/img/img7/fs/image.1567752874.png")
