@@ -16,3 +16,8 @@
 ### Данные в таблице 
 
 ![alt-У вас не загрузилось :( ](http://ipic.su/img/img7/fs/Import.1568960562.png "SQLServer12-1")
+
+
+### Примеры таблиц
+
+![alt-У вас не загрузилось :( ](http://ipic.su/img/img7/fs/Dannye.1568960747.png "SQLServer12-1")
